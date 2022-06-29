@@ -1,0 +1,28 @@
+img{
+    height: 250px;
+}
+h1{
+    text-align: center;
+    color: brown;
+    
+}
+h2{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+h3{
+    text-align: center;
+    color: hotpink;
+    font-size: 30px;
+}
+h4{
+    text-align: center;
+    color: gold;
+    font-size: 30px;
+}
+h5{
+    text-align: center;
+    color: tomato;
+    font-size: 30px;
+}
